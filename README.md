@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Fredix 👋
 
-<!--
-**fredix25/fredix25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Java | Python | SQL
+🚀 Learning by building projects and solving problems
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** Java, Python
+* **Database:** SQL
+* **Tools:** Git, GitHub
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Software Development
+* Building real-world projects
+
+## 🚀 Projects
+
+More projects coming soon...
+
+## 📈 Goals
+
+* Strengthen my DSA fundamentals
+* Build meaningful projects
+* Learn modern development tools
+* Contribute to open-source projects
+
+---
+
+⭐ Thanks for visiting my profile!
