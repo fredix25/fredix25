@@ -1,4 +1,4 @@
-# Hey, I'm Fredix 👋
+# Hey, I'm Murali 👋
 
 🎓 Computer Science Student
 💻 Java | Python | SQL
